@@ -1,0 +1,31 @@
+{
+  "name": "aoc2023",
+  "version": "1.0.0",
+  "description": "Solutions to Advent of Code 2023 in TypeScript",
+  "main": "1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a-mcego/AoC2023.git"
+  },
+  "keywords": [
+    "aoc",
+    "advent_of_code",
+    "typescript"
+  ],
+  "author": "Angela McEgo",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/a-mcego/AoC2023/issues"
+  },
+  "homepage": "https://github.com/a-mcego/AoC2023#readme",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "typescript": "^5.3.2"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.2"
+  }
+}
