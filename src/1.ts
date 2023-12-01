@@ -9,8 +9,7 @@ function readFileLines(filename: string): string[] {
 const filename = '1.txt';
 const lines = readFileLines(filename);
 
-function CollectSum(digits:Record<string, number>)
-{
+function CollectSum(digits:Record<string, number>) {
   var sum:number = 0
   lines.forEach((element:string, index, array) => {
     var first:number = -1;
